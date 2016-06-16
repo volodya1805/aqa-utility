@@ -1,0 +1,16 @@
+{
+  "name": "foxsports-aqa-utility",
+  "version": "1.0.5",
+  "description": "This project contains npm package with common library, custom nightwatch.js commands and assertions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volodya1805/aqa-utility.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/volodya1805/aqa-utility.git#readme"
+}
